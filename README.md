@@ -1,1 +1,1 @@
-Our code will be published as soon as our paper is accepted.
+# Mixing Feature Attention Network for Trajectory prediction
